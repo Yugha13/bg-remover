@@ -162,8 +162,8 @@ export default function App() {
 
       <footer className="credit">
         Crafted by{" "}
-        <a href="https://instagram.com/berkindev" target="_blank" rel="noreferrer">
-          @berkindev
+        <a href="https://yugha.me" target="_blank" rel="noreferrer">
+          Yugha
         </a>
       </footer>
     </div>
